@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(black,hwb(293 45% 20%),bisque);
+    background-attachment: fixed;
+}
+h1{
+    color: black;
+}
+p.dotted {border-style: dotted;}
+header{
+    background-color:beige;
+   height: 100px;
+   padding:20px;
+}
+ 
+ul li{
+   
+    display:inline;
+    padding: 30px;
+}
+ul li a{
+    color:black;
+    text-decoration: none;
+}
+#Bio h2{
+    margin: 0px;
+}
+#Home img{  
+ border-radius: 50%;
+}
+#Portfolio{
+
+    background-color:beige;
+}
+#Skills ul li{
+    display:inline;
+    padding:10px;
+    color: black;
+}
+footer{
+    background-color: black;
+    height: 40px;
+    padding: 20px 0px 20px 0px;
+}
+footer p{
+   color: whitesmoke;
+}
